@@ -1,4 +1,4 @@
-package aula20190531.jdbc;
+package aula.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
